@@ -1,0 +1,5 @@
+package com.example.policyservice.controller;
+
+public class PolicyController {
+
+}
